@@ -47,11 +47,15 @@ function createPresentationOutput(presentation) {
  */
 function appendToDom(presentationData, node) {
   for (const time in presentationData) {
+     const date = node.id === 'wednesday' ? 'Wednesday, March 10' : 'Thursday, March 11';
+
      const li = document.createElement('li');
-     li.textContent = time;
+     const h3 = document.createElement('h3');
+     h3.textContent = time;
+     li.appendChild(h3);
 
      const ul = document.createElement('ul');
-     ul.setAttribute('aria-label', time);
+     ul.setAttribute('aria-label', `${time}, ${date}`);
      presentationData[time].forEach(li => {
        ul.appendChild(li);
      });
