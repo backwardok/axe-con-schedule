@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
 	<title>Axe-Con Schedule made for you, with you!</title>
@@ -18,42 +18,19 @@
 		<h1>Axe-Con Schedule made for you, with you!</h1>
 		<p>Link to <a href="https://github.com/shawnthompson/axe-con-schedule">Github repository to contribute</a></p>
 
-		<label for="notName">What time zone are you in?</label>
-		<select name="notUsed" id="notName">
-			<option value="timezone-value">{{timezone.value}}</option>
-			<option value="timezone-value2">{{timezone.value2}}</option>
-			<option value="timezone-value3">{{timezone.value3}}</option>
-			<option value="timezone-value4">{{timezone.value4}}</option>
-			<option value="timezone-value5">{{timezone.value5}}</option>
-		</select>
-
-		<section>
-			<h2>{{data.day}}</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae quos nihil ab enim mollitia, natus facere cupiditate assumenda atque eos cumque vero totam voluptate optio earum asperiores doloribus, sed itaque!</p>
-
-			<section>
-				<h3><a href="{{data.day.link}}">{{data.day.title}}</a></h3>
-				<dl>
-					<dt>Start time:</dt>
-					<dd>{{data.day.start}}</dd>
-					<dt>End time:</dt>
-					<dd>{{data.day.end}}</dd>
-					<dt>Type:</dt>
-					<dd>{{data.day.type}}</dd>
-					<dt>Presenter(s)</dt>
-					<dd>{{data.day.presenter}}</dd>
-				</dl>
-			</section>
-
-		</section>
+		<ul>
+			<li>
+				<h2>Wednesday, March 10</h2>
+				<ul id="wednesday"></ul>
+			</li>
+			<li>
+				<h2>Thursday, March 11</h2>
+				<ul id="thursday"></ul>
+			</li>
+		</ul>
 
 	</main>
-	  
-	<!-- Optional JavaScript -->
-	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
 	<script src="./js/custom.js"></script>
   </body>
 </html>
