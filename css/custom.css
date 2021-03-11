@@ -35,8 +35,15 @@ a:focus {
 	margin: 25px 55px;
 }
 
+#wednesday-date {
+	margin-top: 300px;
+	border-top: solid 3px #fff;
+	padding-top: 35px;;
+}
+
 .axeConDays h2 {
-	margin-top: 65px;
+	margin-top: 125px;
+	text-align: center;
 }
 
 .axeConCollab {
