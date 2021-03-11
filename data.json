@@ -211,6 +211,7 @@
 		"end": "7:00 pm",
 		"Type": "Social",
 		"title": "Virtual Trivia",
+		"presenter": "Axe-Con",
 		"link": "https://axe-con.com/event/virtual-trivia/"
 	}, {
 		"start": "6:30 pm",
@@ -269,7 +270,7 @@
 		"start": "7:30 pm",
 		"end": "8:20 pm",
 		"Type": "Breakout",
-		"title": "Beauty is Not Enough: Institutionalizing Accessibility at one of the World‚Äôs Top 10 Largest Auto Makers",
+		"title": "Beauty is Not Enough: Institutionalizing Accessibility at one of the World's Top 10 Largest Auto Makers",
 		"presenter": "Alison Walden",
 		"link": "https://axe-con.com/event/beauty-is-not-enough-institutionalizing-accessibility-at-one-of-the-worldaos-top-10-largest-auto-makers/"
 	}, {
