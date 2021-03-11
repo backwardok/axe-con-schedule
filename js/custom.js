@@ -21,8 +21,11 @@ function toLocaleTime(timeStr, day) {
     0
   ));
 
-  return date.toLocaleTimeString();
-}
+  const localeTime = date.toLocaleTimeString();
+  const secondsIndex = localeTime.lastIndexOf(':');
+
+  // remove the seconds
+  return localeTime.substring(0, secondsIndex) + localeTime.substr(secondsIndex + 3);}
 
 /**
  * Create the output for a presentation.
