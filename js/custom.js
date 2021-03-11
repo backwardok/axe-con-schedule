@@ -21,11 +21,8 @@ function toLocaleTime(timeStr, day) {
     0
   ));
 
-  const localeTime = date.toLocaleTimeString();
-  const secondsIndex = localeTime.lastIndexOf(':');
-
-  // remove the seconds
-  return localeTime.substring(0, secondsIndex) + localeTime.substr(secondsIndex + 3);}
+  return date.toLocaleTimeString([], { timeStyle: 'short' });
+}
 
 /**
  * Create the output for a presentation.
@@ -36,6 +33,7 @@ function createPresentationOutput(presentation) {
   const { title, presenter, link } = presentation;
 
   const li = document.createElement('li');
+  li.classList.add('axeConPresentation');
   // turn a non-array into an arry
   const presenters = [].concat(presenter);
   li.innerHTML = `<a href="${link}">${title}</a> by ${presenters.join(', ')}`;
@@ -55,12 +53,14 @@ function appendToDom(presentationData, node) {
      const li = document.createElement('li');
      const h3 = document.createElement('h3');
      h3.textContent = time;
+     li.classList.add('axeConHour');
      li.appendChild(h3);
 
      const ul = document.createElement('ul');
      ul.setAttribute('aria-label', `${time}, ${date}`);
-     presentationData[time].forEach(li => {
-       ul.appendChild(li);
+     ul.classList.add('axeConHourList');
+     presentationData[time].forEach(presentationLi => {
+       ul.appendChild(presentationLi);
      });
      li.appendChild(ul);
 
