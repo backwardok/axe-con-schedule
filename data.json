@@ -51,7 +51,7 @@
 		"start": "12:30 pm",
 		"end": "1:20 pm",
 		"Type": "Keynote",
-		"title": "Difference Drives Innovation &#038; Disability Inclusion Benefits All of Us",
+		"title": "Difference Drives Innovation &amp; Disability Inclusion Benefits All of Us",
 		"presenter": "Haben Girma",
 		"link": "https://axe-con.com/event/difference-drives-innovation-disability-inclusion-benefits-all-of-us/"
 	}, {
@@ -65,7 +65,7 @@
 		"start": "1:30 pm",
 		"end": "2:20 pm",
 		"Type": "Breakout",
-		"title": "Not A Checklist &#8211; Building Compliance into your Business Processes",
+		"title": "Not A Checklist &ndash; Building Compliance into your Business Processes",
 		"presenter": "Eve Hill",
 		"link": "https://axe-con.com/event/not-a-checklist-building-compliance-into-your-business-processes/"
 	}, {
@@ -135,7 +135,7 @@
 		"start": "3:30 pm",
 		"end": "4:20 pm",
 		"Type": "Breakout",
-		"title": "What&#8217;s New in axe-core 2021",
+		"title": "What&apos;s New in axe-core 2021",
 		"presenter": [
 			"Wilco Fiers",
 			"Steven Lambert"
@@ -186,7 +186,7 @@
 		"start": "5:30 pm",
 		"end": "6:20 pm",
 		"Type": "Breakout",
-		"title": "A Call to ARRM (Accessibility Roles and Responsibilities Mapping) &#8211; 2021 Status Update",
+		"title": "A Call to ARRM (Accessibility Roles and Responsibilities Mapping) &ndash; 2021 Status Update",
 		"presenter": [
 			"Denis Boudreau",
 			"Bill Tyler"
@@ -235,7 +235,7 @@
 		"start": "6:30 pm",
 		"end": "7:20 pm",
 		"Type": "Breakout",
-		"title": "Web for Everyone &#8211; Accessibility with React",
+		"title": "Web for Everyone &ndash; Accessibility with React",
 		"presenter": "Manjula Dube",
 		"link": "https://axe-con.com/event/web-for-everyone-accessibility-with-react/"
 	}, {
@@ -277,7 +277,7 @@
 		"start": "8:30 pm",
 		"end": "9:20 pm",
 		"Type": "Breakout",
-		"title": "WCAG 2.2 &#8211; Real World Examples Illustrating the Future of Accessibility",
+		"title": "WCAG 2.2 &ndash; Real World Examples Illustrating the Future of Accessibility",
 		"presenter": "Thomas Logan",
 		"link": "https://axe-con.com/event/wcag-2-2-real-world-examples-illustrating-the-future-of-accessibility/"
 	}, {
@@ -310,7 +310,7 @@
 		"start": "9:00 am",
 		"end": "9:50 am",
 		"Type": "Breakout",
-		"title": "Accessibility Rating Framework: a Simple Way to Compare Accessibility Quality Across a Portfolio of Apps &#038; Websites",
+		"title": "Accessibility Rating Framework: a Simple Way to Compare Accessibility Quality Across a Portfolio of Apps &amp; Websites",
 		"presenter": "Aidan Tierney",
 		"link": "https://axe-con.com/event/accessibility-rating-framework-a-simple-way-to-compare-accessibility-quality-across-a-portfolio-of-apps-websites/"
 	}, {
@@ -382,7 +382,7 @@
 		"start": "11:00 am",
 		"end": "11:50 am",
 		"Type": "Breakout",
-		"title": "Treating Exclusion Like Pollution &#8211; Why We Should Be Using Sustainability Frameworks to Address Accessibility",
+		"title": "Treating Exclusion Like Pollution &ndash; Why We Should Be Using Sustainability Frameworks to Address Accessibility",
 		"presenter": "Neil Milliken",
 		"link": "https://axe-con.com/event/treating-exclusion-like-pollution-why-we-should-be-using-sustainability-frameworks-to-address-accessibility/"
 	}, {
@@ -396,7 +396,7 @@
 		"start": "12:30 pm",
 		"end": "1:20 pm",
 		"Type": "Breakout",
-		"title": "Don&#8217;t Believe The Type!",
+		"title": "Don&apos;t Believe The Type!",
 		"presenter": [
 			"Gareth Ford Williams",
 			"David Bailey",
@@ -431,7 +431,7 @@
 		"start": "1:30 pm",
 		"end": "2:20 pm",
 		"Type": "Breakout",
-		"title": "Climbing the Accessibility Mountain: Adobe Audience Manager&#8217;s Journey",
+		"title": "Climbing the Accessibility Mountain: Adobe Audience Manager&apos;s Journey",
 		"presenter": [
 			"Elle Waters",
 			"Dylan Kario"
@@ -472,7 +472,7 @@
 		"start": "2:30 pm",
 		"end": "3:20 pm",
 		"Type": "Breakout",
-		"title": "IAAP Certifications: What&#8217;s In It For Me?",
+		"title": "IAAP Certifications: What&apos;s In It For Me?",
 		"presenter": "Samantha Evans",
 		"link": "https://axe-con.com/event/iaap-certifications-whats-in-it-for-me/"
 	}, {
@@ -496,7 +496,7 @@
 		"start": "3:30 pm",
 		"end": "4:20 pm",
 		"Type": "Breakout",
-		"title": "Retrofitting for an Accessible Color Palette: Beyond the ‚ÄúNice-to-Have‚Äù Improvement",
+		"title": "Retrofitting for an Accessible Color Palette: Beyond the &ldquo;Nice-to-Have&rdquo; Improvement",
 		"presenter": "Marion Couesnon",
 		"link": "https://axe-con.com/event/retrofitting-for-an-accessible-color-palette-beyond-the-aunice-to-haveau-improvement/"
 	}, {
@@ -510,7 +510,7 @@
 		"start": "3:30 pm",
 		"end": "4:20 pm",
 		"Type": "Breakout",
-		"title": "Accidental Advocacy: When You Don&#8217;t Realize You&#8217;re Steering the Ship",
+		"title": "Accidental Advocacy: When You Don&apos;t Realize You&apos;re Steering the Ship",
 		"presenter": "Andrew Hayward",
 		"link": "https://axe-con.com/event/accidental-advocacy-when-you-dont-realize-youre-steering-the-ship/"
 	}, {
@@ -605,7 +605,7 @@
 		"end": "7:20 pm",
 		"Type": "Breakout",
 		"title": "Forming an Enterprise Accessibility Training Program",
-		"presenter": "Rob O&#8217;Connell",
+		"presenter": "Rob O&apos;Connell",
 		"link": "https://axe-con.com/event/forming-an-enterprise-accessibility-training-program/"
 	}, {
 		"start": "6:30 pm",
