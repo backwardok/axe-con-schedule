@@ -1,11 +1,44 @@
 /* Custom styles */
 
+body {
+	font-size: 2em;
+	background-color: #000;
+	color: #fff;
+}
+
 h1 {
-	font-size: 3em;
-	margin-top: 30px;
+	font-size: 1.5em;
+	margin-top: 150px;
+	margin-bottom: 55px;
 	text-align: center;
 }
 
 a {
-  color: #0065ff;
+  color: yellow;
+  border-bottom: solid 1px yellow;
+  margin: 4px;
+}
+
+a:hover,
+a:focus {
+	color: orange;
+	padding: 5px;
+	border: solid 2px #F66;
+	text-decoration: none;
+}
+
+.axeConDays ul ul li {
+	margin: 25px 15px;
+}
+
+.axeConDays ul {
+	margin: 25px 55px;
+}
+
+.axeConDays h2 {
+	margin-top: 65px;
+}
+
+.axeConCollab {
+	margin-bottom: 25px;
 }
