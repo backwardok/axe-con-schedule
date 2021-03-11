@@ -16,7 +16,7 @@ function toLocaleTime(timeStr, day) {
     2,  // month is 0 indexed
     day,
     // ET = UTC-5
-    hour + 5 + (period === 'pm' ? 12 : 0),
+    hour + 5 + (period === 'pm' && hour < 12 ? 12 : 0),
     mintues,
     0
   ));
