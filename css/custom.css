@@ -1,51 +1,90 @@
 /* Custom styles */
 
 body {
-	font-size: 2em;
-	background-color: #000;
-	color: #fff;
+	font-size: 1.5rem;
+	background-color: #f0f0f0;
+	color: #222;
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #000;
+		color: #eee;
+	}
 }
 
 h1 {
-	font-size: 1.5em;
-	margin-top: 150px;
-	margin-bottom: 55px;
+	font-size: 3rem;
+	margin-top: 5rem;
+	margin-bottom: 3rem;
 	text-align: center;
 }
 
 a {
-  color: yellow;
-  border-bottom: solid 1px yellow;
+	color: blue;
+	border-bottom: solid 1px blue;
 }
 
 a:hover,
 a:focus {
-	color: orange;
+	color: green;
 	border: none;
 	text-decoration: none;
-	outline: 2px solid #F66;
+	outline: 2px solid rgb(26, 179, 12);
 	outline-offset: 5px;
 }
 
-.axeConDays ul ul li {
-	margin: 25px 15px;
+@media (prefers-color-scheme: dark) {
+	a {
+		color: yellow;
+		border-bottom: solid 1px yellow;
+	}
+	
+	a:hover,
+	a:focus {
+		color: orange;
+		outline: 2px solid #F66;
+	}
 }
 
-.axeConDays ul {
-	margin: 25px 55px;
+.axeConDay {
+	margin: 2rem 2rem;
+}
+
+.axeConHour {
+	margin: 4rem 0;
+}
+
+.axeConHourList {
+	margin: 2rem;
+}
+
+.axeConPresentation {
+	margin: 1rem 0;
 }
 
 #wednesday-date {
-	margin-top: 300px;
-	border-top: solid 3px #fff;
+	margin-top: 8rem;
+	border-top: solid 3px #000;
 	padding-top: 35px;
 }
 
+@media (prefers-color-scheme: dark) {
+	#wednesday-date {
+		border-top: solid 3px #fff;
+	}
+}
+
 .axeConDays h2 {
-	margin-top: 125px;
+	margin-top: 6rem;
 	text-align: center;
+	font-size: 2.5rem;
+}
+
+.axeConDays h3 {
+	font-size: 2rem;
 }
 
 .axeConCollab {
-	margin-bottom: 25px;
+	margin-bottom: 1rem;
 }
