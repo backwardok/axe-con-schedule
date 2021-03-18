@@ -2,648 +2,731 @@
 	"wednesday": [{
 		"start": "9:00 am",
 		"end": "9:50 am",
-		"Type": "Keynote",
+		"type": "Keynote",
 		"title": "The Future of Accessibility",
 		"presenter": "Vint Cerf",
-		"link": "https://axe-con.com/event/the-future-of-accessibility/"
+		"link": "https://axe-con.com/event/the-future-of-accessibility/",
+		"description" : "Vinton G. Cerf is vice president and chief internet evangelist for Google. Widely known as one of the “Fathers of the Internet,” Mr. Cerf is the co-designer of the TCP/IP protocols and the architecture of the internet. Mr. Cerf shares his views on the future of the internet, the importance of trust and empathy, and the impact of new technologies like IoT and AI on the future of communications."
 	}, {
 		"start": "10:00 am",
 		"end": "10:50 am",
-		"Type": "Keynote",
+		"type": "Keynote",
 		"title": "The State of Accessibility and axe Updates",
 		"presenter": [
 			"Preety Kumar",
 			"Dylan Barrell"
 		],
-		"link": "https://axe-con.com/event/the-state-of-accessibility-and-axe-updates/"
+		"link": "https://axe-con.com/event/the-state-of-accessibility-and-axe-updates/",
+		"description" : "Join Deque’s System’s CEO, Preety Kumar, and CTO, Dylan Barrel, in a kickoff session for axe-con. Preety and Dylan will cover the current state of accessibility and what’s new with axe."
 	}, {
 		"start": "11:00 am",
 		"end": "11:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Unblocking Backlog Jams with Multi-Dimensional Accessibility Audits",
 		"presenter": "Dave Rupert",
-		"link": "https://axe-con.com/event/unblocking-backlog-jams-with-multi-dimensional-accessibility-audits/"
+		"link": "https://axe-con.com/event/unblocking-backlog-jams-with-multi-dimensional-accessibility-audits/",
+		"description" : ""
 	}, {
 		"start": "11:00 am",
 		"end": "11:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Approach Accessibility As A Customer Experience Imperative: It Starts With Design",
 		"presenter": "Gina Bhawalkar",
-		"link": "https://axe-con.com/event/approach-accessibility-as-a-customer-experience-imperative-it-starts-with-design/"
+		"link": "https://axe-con.com/event/approach-accessibility-as-a-customer-experience-imperative-it-starts-with-design/",
+		"description" : "As designers, developers, and managers a lot of our lives are spent beholden to the product backlog by creating, assigning, or fixing issues. Accessibility audits don’t have to be bad news! In this talk, Dave will share some strategies he found to eat the proverbial elephant by visualizing accessibility problems from a variety of different angles. He’ll show how to improve the accessibility audit hand-off process, the development process, and the entire concept of backlogs, all while preserving a sense of autonomy for everyone involved. The goal is to come away able to achieve the ultimate goal of creating more usable and accessible products from an organizational level."
 	}, {
 		"start": "11:00 am",
 		"end": "11:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "A Year In Review: Accessibility Success at U.S. Bank",
 		"presenter": [
 			"Matthew Luken",
 			"Derrin Evers"
 		],
-		"link": "https://axe-con.com/event/a-year-in-review-accessibility-success-at-u-s-bank/"
+		"link": "https://axe-con.com/event/a-year-in-review-accessibility-success-at-u-s-bank/",
+		"description" : "U.S. Bank’s accessibility team will discuss their journey of implementing accessibility tools throughout the software development lifecycle and building a culture of accessibility. This session will include best practices of building an accessibility program and what a tremendous year of progress looks like in practice. This session will also leave ample time for Q&A and advice for attendees."
 	}, {
 		"start": "11:00 am",
 		"end": "11:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Digital Accessibility Legal Update",
 		"presenter": "Kristina Launey",
-		"link": "https://axe-con.com/event/digital-accessibility-legal-update/"
+		"link": "https://axe-con.com/event/digital-accessibility-legal-update/",
+		"description" : "Businesses continue to be at great risk of a legal action regarding the accessibility of digital technologies, including websites, mobile applications, and kiosks. The number of demand letters and lawsuits filed on this basis has continued unabated for quite a few years. In this session, Kristina Launey of Seyfarth Shaw LLP provides legal background, an update on current developments, and tips and strategies to help businesses spot and manage the risks they face in complying with the Americans with Disabilities Act and other applicable laws‚Äô accessibility requirements as may be applicable to websites, mobile apps, and other technologies."
 	}, {
 		"start": "12:30 pm",
 		"end": "1:20 pm",
-		"Type": "Keynote",
+		"type": "Keynote",
 		"title": "Difference Drives Innovation &amp; Disability Inclusion Benefits All of Us",
 		"presenter": "Haben Girma",
-		"link": "https://axe-con.com/event/difference-drives-innovation-disability-inclusion-benefits-all-of-us/"
+		"link": "https://axe-con.com/event/difference-drives-innovation-disability-inclusion-benefits-all-of-us/",
+		"description" : ""
 	}, {
 		"start": "1:30 pm",
 		"end": "2:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Grid, Content Re-Ordering and Accessibility",
 		"presenter": "Rachel Andrew",
-		"link": "https://axe-con.com/event/grid-content-re-ordering-and-accessibility/"
+		"link": "https://axe-con.com/event/grid-content-re-ordering-and-accessibility/",
+		"description" : "Let’s review the potential accessibility problems that grid layout could cause. These issues essentially center around the concept of disconnecting the source from the visual display."
 	}, {
 		"start": "1:30 pm",
 		"end": "2:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Not A Checklist &ndash; Building Compliance into your Business Processes",
 		"presenter": "Eve Hill",
-		"link": "https://axe-con.com/event/not-a-checklist-building-compliance-into-your-business-processes/"
+		"link": "https://axe-con.com/event/not-a-checklist-building-compliance-into-your-business-processes/",
+		"description" : ""
 	}, {
 		"start": "1:30 pm",
 		"end": "2:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Making Motion Inclusive",
 		"presenter": "Val Head",
-		"link": "https://axe-con.com/event/making-motion-inclusive/"
+		"link": "https://axe-con.com/event/making-motion-inclusive/",
+		"description" : "It’s a common misconception that things like inclusive design and accessibility only come at the cost of design details like motion, but that’s just not the case. Whether it’s microinteractions, animated illustrations, or larger animated experiences, a little care and consideration can go a long way towards getting the best of both worlds. In this session, Val will show you how to build animated interactions with inclusivity in mind from the start. We’ll discuss how to apply web accessibility guidelines to modern web animation, when and how to implement reduced motion, and approaches to building up animated interactions for a solid standards base."
 	}, {
 		"start": "1:30 pm",
 		"end": "2:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "ROI of Accessibility",
 		"presenter": "Greg Williams",
-		"link": "https://axe-con.com/event/roi-of-accessibility/"
+		"link": "https://axe-con.com/event/roi-of-accessibility/",
+		"description" : "By making your website accessible, your organization can capture a huge, overlooked market share, reduce your legal risk, lower call-center costs, and boost brand value."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessibility Testing Coverage: Automation and Intelligent Guided Testing",
 		"presenter": "Glenda Sims",
-		"link": "https://axe-con.com/event/accessibility-testing-coverage-automation-and-intelligent-guided-testing/"
+		"link": "https://axe-con.com/event/accessibility-testing-coverage-automation-and-intelligent-guided-testing/",
+		"description" : ""
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Applied Accessibility: Practical Tips for Building More Accessible Front-Ends",
 		"presenter": "Sara Soueidan",
-		"link": "https://axe-con.com/event/applied-accessibility-practical-tips-for-building-more-accessible-front-ends/"
+		"link": "https://axe-con.com/event/applied-accessibility-practical-tips-for-building-more-accessible-front-ends/",
+		"description" : "Ever wonder how much accessibility coverage you can actually get from technology like automation and Intelligent Guided Testing? In this session, we’ll review three years of audit data to show the actual accessibility coverage percentages you can get from various technologies."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "The UX Behind axe DevTools",
 		"presenter": "Aaron Pearlman",
-		"link": "https://axe-con.com/event/the-ux-behind-axe-devtools/"
+		"link": "https://axe-con.com/event/the-ux-behind-axe-devtools/",
+		"description" : "Ever wonder how the axe DevTools extension was designed? What decisions went into making it both accessible and usable? Let’s pull off the veil and dive into the nuts and bolts of how axe DevTools was conceived, the numerous iterations it went through and the specific accessibility decisions we had to bring the world’s most trusted accessibility testing software to life."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Building Accessibility Success within Smaller Enterprise Companies",
 		"presenter": "Ted Drake",
-		"link": "https://axe-con.com/event/building-accessibility-success-within-smaller-enterprise-companies/"
+		"link": "https://axe-con.com/event/building-accessibility-success-within-smaller-enterprise-companies/",
+		"description" : ""
 	}, {
 		"start": "3:30 pm",
 		"end": "4:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "The Landscape of Digital Accessibility in Higher Education",
 		"presenter": [
 			"Charles Collick Jr.",
 			"Nate Evans",
 			"Pat Kogos"
 		],
-		"link": "https://axe-con.com/event/the-landscape-of-digital-accessibility-in-higher-education/"
+		"link": "https://axe-con.com/event/the-landscape-of-digital-accessibility-in-higher-education/",
+		"description" : "Building a vibrant accessibility community, implementing testing, and creating documentation for best practices are critical for all companies. Your strategy depends on the size of your company, learn strategies from Intuit, a smaller enterprise company with 10,000 employees."
 	}, {
 		"start": "3:30 pm",
 		"end": "4:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Agile, Educational and Empathetic: a Digital Persona Set Linked to User Journeys Serving Accessibility",
 		"presenter": [
 			"Nathalie Pican",
 			"Vincent Aniort"
 		],
-		"link": "https://axe-con.com/event/agile-educational-and-empathetic-a-digital-persona-set-linked-to-user-journeys-serving-accessibility/"
+		"link": "https://axe-con.com/event/agile-educational-and-empathetic-a-digital-persona-set-linked-to-user-journeys-serving-accessibility/",
+		"description" : "You already know about personae even in the field of accessibility. Supporting creativity, these archetypes of users also prove to be invaluable for bringing use cases to life and for embodying testers with disabilities. This is the challenge of our set which is fully integrated into the agile approach. Each of our personae is directly linked to a guideline base, user stories, and the corresponding acceptance criteria. The Product Owner thus has all the tools in hand to provide users with an accessible digital experience."
 	}, {
 		"start": "3:30 pm",
 		"end": "4:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "What&apos;s New in axe-core 2021",
 		"presenter": [
 			"Wilco Fiers",
 			"Steven Lambert"
 		],
-		"link": "https://axe-con.com/event/whats-new-in-axe-core-2021/"
+		"link": "https://axe-con.com/event/whats-new-in-axe-core-2021/",
+		"description" : "Axe-core v4.0.0 was released last year and brought a host of new features, greater customization, and fixes. In this session, we’ll be discussing what’s happened since then and where axe-core is going now."
 	}, {
 		"start": "4:30 pm",
 		"end": "5:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "From Nothing to Something: How A Team of 2 Kickstarted an Accessibility Program",
 		"presenter": [
 			"Alexis Lucio",
 			"Simarjeet (Sim) Kaur"
 		],
-		"link": "https://axe-con.com/event/from-nothing-to-something-how-a-team-of-2-kickstarted-an-accessibility-program/"
+		"link": "https://axe-con.com/event/from-nothing-to-something-how-a-team-of-2-kickstarted-an-accessibility-program/",
+		"description" : "Starting an accessibility program at an established company is much easier said than done. This talk will cover different grassroots approaches to building momentum, what data points to consider based on industry, and what happens after you become the victim of your own success."
 	}, {
 		"start": "4:30 pm",
 		"end": "5:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "The State of Accessibility in Africa",
 		"presenter": "Obinna Ekwuno",
-		"link": "https://axe-con.com/event/the-state-of-accessibility-in-africa/"
+		"link": "https://axe-con.com/event/the-state-of-accessibility-in-africa/",
+		"description" : "Web Accessibility has become quite prominent in our industry today, even more, talked about in regions of the world that have actually have regulations guarding making the web-accessible. In our industry, it sometimes looks like only a few people push for this “thing” that should come naturally to us. I mean to be empathic is to be a human right?"
 	}, {
 		"start": "4:30 pm",
 		"end": "5:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Agile Accessibility Requirements at Scale",
 		"presenter": "Ben Allen",
-		"link": "https://axe-con.com/event/agile-accessibility-requirements-at-scale/"
+		"link": "https://axe-con.com/event/agile-accessibility-requirements-at-scale/",
+		"description" : "Discover how PNC incorporate accessibility requirements into their Agile practice. Learn about component libraries, acceptance criteria libraries, and the impact of these tools on the software development life cycle & accessibility training."
 	}, {
 		"start": "4:30 pm",
 		"end": "5:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Auditing Design Systems for Accessibility",
 		"presenter": "Anna Cook",
-		"link": "https://axe-con.com/event/auditing-design-systems-for-accessibility/"
+		"link": "https://axe-con.com/event/auditing-design-systems-for-accessibility/",
+		"description" : "Design systems are a crucial part of building accessible experiences. Each atom, molecule, and organism we create in our systems affects our ability to scale upwards and meet disabled people’s needs. In this session, learn how to audit components for accessibility issues from design to code using plugins, best practices, and testing tools. Walk away from this session empowered to make your design systems accessible sooner."
 	}, {
 		"start": "5:30 pm",
 		"end": "6:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Serving Everyone: Accessibility for Public Benefits",
 		"presenter": [
 			"Deirdre Hirschtritt",
 			"Luigi Ray-Montanez"
 		],
-		"link": "https://axe-con.com/event/serving-everyone-accessibility-for-public-benefits/"
+		"link": "https://axe-con.com/event/serving-everyone-accessibility-for-public-benefits/",
+		"description" : "Public benefits programs like Medicaid and SNAP must serve everyone, but too often treat accessibility as a to-do list item rather than a core value of service delivery. How should we define access for our neighbors with low incomes who have been and remain systematically oppressed, whose only way of accessing the internet is through a smartphone on a limited data plan? Join Code for America staff as they discuss their work with various state governments to build a social safety net that is truly accessible to everyone."
 	}, {
 		"start": "5:30 pm",
 		"end": "6:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "A Call to ARRM (Accessibility Roles and Responsibilities Mapping) &ndash; 2021 Status Update",
 		"presenter": [
 			"Denis Boudreau",
 			"Bill Tyler"
 		],
-		"link": "https://axe-con.com/event/a-call-to-arrm-accessibility-roles-and-responsibilities-mapping-2021-status-update/"
+		"link": "https://axe-con.com/event/a-call-to-arrm-accessibility-roles-and-responsibilities-mapping-2021-status-update/",
+		"description" : "The Accessibility Roles and Responsibility Mapping (ARRM) is a framework developed by the W3C’s EOWG to help teams break down Web accessibility requirements by roles. In 2020, the team introduced the framework as a way to shift accessibility responsibilities left in a team’s web development lifecycle. The framework provides the tools to apply a custom RACI matrix to accessibility checklists. The future of web accessibility roles and responsibility mapping is here, and it begins with our call to ARRMs."
 	}, {
 		"start": "5:30 pm",
 		"end": "6:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Automated Accessibility Testing in JavaScript Frameworks",
 		"presenter": "Mark Steadman",
-		"link": "https://axe-con.com/event/automated-accessibility-testing-in-javascript-frameworks/"
+		"link": "https://axe-con.com/event/automated-accessibility-testing-in-javascript-frameworks/",
+		"description" : "Automated testing for accessibility issues with axe-core is one of the best and most effective ways to catch up to 50% of accessibility violations. In JavaScript frameworks such as React, Angular, and Vue most development teams only test one single level of test, and that is at the component level."
 	}, {
 		"start": "5:30 pm",
 		"end": "6:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Panel: Federal Government and Accessibility",
 		"presenter": "Allen Hoffman",
-		"link": "https://axe-con.com/event/panel-federal-government-and-accessibility/"
+		"link": "https://axe-con.com/event/panel-federal-government-and-accessibility/",
+		"description" : "Federal perspectives on user experiences, digital equality, and opportunities to deliver on the promise of accessible government. A one-hour panel presentation lead by Deque’s Allen Hoffman, former Deputy Executive Director of Department of Homeland Security Office of Accessible Systems and Technology. Hear from Maria Roat, Deputy Federal Chief Information Officer, Mark Urban Section 508 Program Manager Centers for Disease Control, and Brooke Aiken, Section 508 Program Manager Federal Deposit Corporation on how digital equality is viewed from those on the frontlines inside the Federal government."
 	}, {
 		"start": "6:00 pm",
 		"end": "7:00 pm",
-		"Type": "Social",
+		"type": "Social",
 		"title": "Virtual Trivia",
 		"presenter": "Axe-Con",
-		"link": "https://axe-con.com/event/virtual-trivia/"
+		"link": "https://axe-con.com/event/virtual-trivia/",
+		"description" : ""
 	}, {
 		"start": "6:30 pm",
 		"end": "7:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessibility in Color Systems",
 		"presenter": "James Sullivan",
-		"link": "https://axe-con.com/event/accessibility-in-color-systems/"
+		"link": "https://axe-con.com/event/accessibility-in-color-systems/",
+		"description" : ""
 	}, {
 		"start": "6:30 pm",
 		"end": "7:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Case Study: Accessibility Audit of a Major Nonprofit Website",
 		"presenter": [
 			"Jesse Browne",
 			"Laura Patch",
 			"Adam Kapp"
 		],
-		"link": "https://axe-con.com/event/case-study-accessibility-audit-of-a-major-nonprofit-website/"
+		"link": "https://axe-con.com/event/case-study-accessibility-audit-of-a-major-nonprofit-website/",
+		"description" : "Following a recent rebranding and website redesign, the Sierra Club, America’s oldest and largest environmental grassroots nonprofit, undertook an accessibility audit with Deque to ensure that we were meeting our stated targets. For us, this work is part of our continuing journey to become a more just, equitable, and inclusive organization. In this case study, we will share what went well, and where others can learn from our mistakes, as well as how we are continuing to keep accessibility front-and-center in our work despite numerous other challenges and a distributed team."
 	}, {
 		"start": "6:30 pm",
 		"end": "7:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Web for Everyone &ndash; Accessibility with React",
 		"presenter": "Manjula Dube",
-		"link": "https://axe-con.com/event/web-for-everyone-accessibility-with-react/"
+		"link": "https://axe-con.com/event/web-for-everyone-accessibility-with-react/",
+		"description" : ""
 	}, {
 		"start": "6:30 pm",
 		"end": "7:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "2020 State of Accessibility Report",
 		"presenter": "Joe Devon",
-		"link": "https://axe-con.com/event/2020-state-of-accessibility-report/"
+		"link": "https://axe-con.com/event/2020-state-of-accessibility-report/",
+		"description" : "Each year Diamond, an inclusive digital agency issues the State of Accessibility Report. Written with the digital community in mind, the annual SOAR report strives to assess what the current state of accessibility is, so that we may track it over time and make sure it improves yearly. The SOAR report identifies specific accessibility deficiencies of top websites and includes a list of actionable steps developers can take to address accessibility issues now. In 2019, Joe Devon, co-founder at Diamond, and of Global Accessibility Awareness Day (GAAD) launched their first State of Accessibility Report alongside “Take the #GAADPledge” a commitment made by organizations and developers to make accessibility a core value of their project."
 	}, {
 		"start": "7:30 pm",
 		"end": "8:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "How Designers Forget to Consider Accessibility",
 		"presenter": "Brandy Bora",
-		"link": "https://axe-con.com/event/how-designers-forget-to-consider-accessibility/"
+		"link": "https://axe-con.com/event/how-designers-forget-to-consider-accessibility/",
+		"description" : "As a creative director, I’ve consistently been presented with designs and experiences that target a specific, typically abled audience. This talk will educate designers and the accessibility community on typical ways accessibility is forgotten in the design process and tactical, design-focused solutions."
 	}, {
 		"start": "7:30 pm",
 		"end": "8:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Emails for Everyone: A Talk About Email Accessibility Best Practices",
 		"presenter": "Najee Bartley",
-		"link": "https://axe-con.com/event/emails-for-everyone-a-talk-about-email-accessibility-best-practices/"
+		"link": "https://axe-con.com/event/emails-for-everyone-a-talk-about-email-accessibility-best-practices/",
+		"description" : "When people think of accessibility, we often think of websites and mobile apps, but accessibility is also essential when sending communications for clients and customers. Take an email, for example, a fully accessible email may be the difference between a purchase or new membership subscription. Let’s take a look into how we can ensure a positive email experience for everyone!"
 	}, {
 		"start": "7:30 pm",
 		"end": "8:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessibility-Flavored React Components Make Your Design System Delicious!",
 		"presenter": "Kathleen McMahon",
-		"link": "https://axe-con.com/event/accessibility-flavored-react-components-make-your-design-system-delicious/"
+		"link": "https://axe-con.com/event/accessibility-flavored-react-components-make-your-design-system-delicious/",
+		"description" : "Design systems are a popular way for teams to flavor their design and development workflow. However, an often-missing ingredient in many design systems is a focus on accessibility best practices, especially when component libraries are involved."
 	}, {
 		"start": "7:30 pm",
 		"end": "8:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Beauty is Not Enough: Institutionalizing Accessibility at one of the World's Top 10 Largest Auto Makers",
 		"presenter": "Alison Walden",
-		"link": "https://axe-con.com/event/beauty-is-not-enough-institutionalizing-accessibility-at-one-of-the-worldaos-top-10-largest-auto-makers/"
+		"link": "https://axe-con.com/event/beauty-is-not-enough-institutionalizing-accessibility-at-one-of-the-worldaos-top-10-largest-auto-makers/",
+		"description" : "Helping a large organization change the way they work is a challenging and rewarding task. For the last two years, I have led a team that helped one of the world’s top 10 largest automakers assess their digital experiences for accessibility and plan and execute remediation efforts. This lecture will outline the steps we took to help our clients institutionalize accessibility at their organization."
 	}, {
 		"start": "8:30 pm",
 		"end": "9:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "WCAG 2.2 &ndash; Real World Examples Illustrating the Future of Accessibility",
 		"presenter": "Thomas Logan",
-		"link": "https://axe-con.com/event/wcag-2-2-real-world-examples-illustrating-the-future-of-accessibility/"
+		"link": "https://axe-con.com/event/wcag-2-2-real-world-examples-illustrating-the-future-of-accessibility/",
+		"description" : "WCAG 2.2 brings 9 new Success Criteria to the world of accessibility compliance. My presentation will show you real-world examples of how these Success Criteria apply to today’s technology. I believe it is important to bring a shared understanding of new requirements through concrete examples that we can discuss together."
 	}, {
 		"start": "8:30 pm",
 		"end": "9:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Under the Hood: iOS and Android accessibility Services",
 		"presenter": [
 			"Keith Rhodes",
 			"Chris McMeeking",
 			"Jennifer Dailey"
 		],
-		"link": "https://axe-con.com/event/under-the-hood-ios-and-android-accessibility-services/"
+		"link": "https://axe-con.com/event/under-the-hood-ios-and-android-accessibility-services/",
+		"description" : "This roundtable will discuss how iOS and Android Operating Systems communicate with assistive technologies and how having a better understanding of this underlying relationship enables dev teams to build richer, more accessible experiences."
 	}, {
 		"start": "8:30 pm",
 		"end": "9:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Innovation in Accessible Design: A NASA Case Study",
 		"presenter": "Joe Welinske",
-		"link": "https://axe-con.com/event/innovation-in-accessible-design-a-nasa-case-study/"
+		"link": "https://axe-con.com/event/innovation-in-accessible-design-a-nasa-case-study/",
+		"description" : "In 2020, NASA embarked on a completely new design for all of its web-based public-facing content. With millions of consumers of its content around the world, accessibility is a major pillar of the design effort. Learn how accessible innovation was embedded throughout the design process."
 	}],
 	"thursday": [{
 		"start": "9:00 am",
 		"end": "9:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessible SVGs: Inclusiveness Beyond Patterns",
 		"presenter": "Carie Fisher",
-		"link": "https://axe-con.com/event/accessible-svgs-inclusiveness-beyond-patterns/"
+		"link": "https://axe-con.com/event/accessible-svgs-inclusiveness-beyond-patterns/",
+		"description" : "Scalable Vector Graphics (SVGs) became a W3C open standard in 1999, back when the new tech hotness was the Blackberry phone, Napster first invaded college dorms, and the Y2K bug sparked fear in us all. Fast forward to our modern digital world and you’ll notice that while the other tech trends have waned, SVGs are still around and thriving. This is partly due to SVGs having a small footprint for such high visual fidelity, in a world where bandwidth and performance matter more than ever, especially on mobile devices and situations/locations where data is at a premium. But also because SVGs are so flexible with their integrated styles, interactivity, and animation options. What we can do with SVGs today goes way beyond the basic shapes of yesteryear."
 	}, {
 		"start": "9:00 am",
 		"end": "9:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessibility Rating Framework: a Simple Way to Compare Accessibility Quality Across a Portfolio of Apps &amp; Websites",
 		"presenter": "Aidan Tierney",
-		"link": "https://axe-con.com/event/accessibility-rating-framework-a-simple-way-to-compare-accessibility-quality-across-a-portfolio-of-apps-websites/"
+		"link": "https://axe-con.com/event/accessibility-rating-framework-a-simple-way-to-compare-accessibility-quality-across-a-portfolio-of-apps-websites/",
+		"description" : "For non-specialists, accessibility ratings are a simple, intuitive way to understand the accessibility quality of the apps and websites their organization publishes. For the accessibility program team, compliance, or legal, the rating framework is an effective tool to set priorities, thresholds, tolerance, and goals. The framework emphasizes end-user experience and task completion over technical conformance. It allows for comparisons between apps and websites that may not all be running the same automated test tools and uses inputs beyond test results, such as customer feedback."
 	}, {
 		"start": "9:00 am",
 		"end": "9:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Inclusive Design and Accessibility Engineering at Enterprise Scale",
 		"presenter": "Matt May",
-		"link": "https://axe-con.com/event/inclusive-design-and-accessibility-engineering-at-enterprise-scale/"
+		"link": "https://axe-con.com/event/inclusive-design-and-accessibility-engineering-at-enterprise-scale/",
+		"description" : "Training thousands of engineers and designers on all of the complexities of accessibility is a nearly impossible task, but enterprises still need to deliver applications that work for all users today. Adobe provides inclusive design training and incorporates accessibility requirements into its Spectrum design system to ensure greater consistency and to make it possible for designers with varying levels of experience to provide designs that include a high level of support for different user needs. Engineers face similar challenges coding accessible user interfaces from the designs, so Adobe built the React Spectrum component library with comprehensive accessibility support to simplify implementation. This talk will highlight the challenges and benefits of Spectrum and React Spectrum, share how organizations can adapt these open-source projects and Adobe’s Inclusive Design training for their own use, and learn about a pilot project to integrate Spectrum and React Spectrum with axe."
 	}, {
 		"start": "9:00 am",
 		"end": "9:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Panel: Getting Started with Accessibility",
 		"presenter": [
 			"Bob Andreasen",
 			"Francisca Hawkins"
 		],
-		"link": "https://axe-con.com/event/panel-getting-started-with-accessibility/"
+		"link": "https://axe-con.com/event/panel-getting-started-with-accessibility/",
+		"description" : "This panel of accessibility program leaders will discuss best practices and lessons learned from their efforts of starting and managing an accessibility program."
 	}, {
 		"start": "10:00 am",
 		"end": "10:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "axe DevTools Pro",
 		"presenter": "Preety Kumar",
-		"link": "https://axe-con.com/event/axe-devtools-pro/"
+		"link": "https://axe-con.com/event/axe-devtools-pro/",
+		"description" : ""
 	}, {
 		"start": "10:00 am",
 		"end": "10:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "W3C Rules for Accessibility",
 		"presenter": "Wilco Fiers",
-		"link": "https://axe-con.com/event/w3c-rules-for-accessibility/"
+		"link": "https://axe-con.com/event/w3c-rules-for-accessibility/",
+		"description" : "Differences between tools and audits can be frustrating and confusing. The W3C has created Accessibility Conformance Test (ACT) rules so that WCAG can be tested more consistently. Let’s explore what these rules are, and how tools like axe use them."
 	}, {
 		"start": "10:00 am",
 		"end": "10:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Be The Villain",
 		"presenter": "Eric Bailey",
-		"link": "https://axe-con.com/event/be-the-villain/"
+		"link": "https://axe-con.com/event/be-the-villain/",
+		"description" : ""
 	}, {
 		"start": "10:00 am",
 		"end": "10:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Everything We Did Wrong To Do Accessibility Right at BuzzFeed",
 		"presenter": [
 			"Jack Reid",
 			"Plum Ertz"
 		],
-		"link": "https://axe-con.com/event/everything-we-did-wrong-to-do-accessibility-right-at-buzzfeed/"
+		"link": "https://axe-con.com/event/everything-we-did-wrong-to-do-accessibility-right-at-buzzfeed/",
+		"description" : "Over the past two years, BuzzFeed’s main hub of “listicles” and quizzes has been picked apart by third-party auditors and mindfully reconstructed to meet accessibility success criteria by its tech team. From day one, the remediation and certification process was a case study in building accessibility from solid moral grounds and shaky organizational ones. Our team is proud of our work, but we did quite a bit wrong to get it right. In this talk, we’ll share what we’ve learned from our mistakes so that you can avoid the same ones on your own accessibility journey."
 	}, {
 		"start": "11:00 am",
 		"end": "11:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessibility at Scale",
 		"presenter": [
 			"Bryan Osterkamp",
 			"Tom Sikora"
 		],
-		"link": "https://axe-con.com/event/accessibility-at-scale/"
+		"link": "https://axe-con.com/event/accessibility-at-scale/",
+		"description" : "This joint talk from USAA and Workday will discuss how each organization built accessibility automation into their existing testing processes."
 	}, {
 		"start": "11:00 am",
 		"end": "11:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Yes, Virginia, PMs Are Responsible for Accessibility",
 		"presenter": "Angela Hooker",
-		"link": "https://axe-con.com/event/yes-virginia-pms-are-responsible-for-accessibility/"
+		"link": "https://axe-con.com/event/yes-virginia-pms-are-responsible-for-accessibility/",
+		"description" : "Ho-ho-ho, Virginia! For too long, we’ve relied on developers to be the accessibility champion for tech projects. But if you put the sole responsibility on them, you’re setting your project up for problems–big, costly problems that can cause delays. I’d like to show how you–as the PM–can make sure your digital media projects are accessible because it really does start with you. You’ll learn the why, what, and how to do it. You’ve got this, Virginia! Love, Santa’s Helper."
 	}, {
 		"start": "11:00 am",
 		"end": "11:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Treating Exclusion Like Pollution &ndash; Why We Should Be Using Sustainability Frameworks to Address Accessibility",
 		"presenter": "Neil Milliken",
-		"link": "https://axe-con.com/event/treating-exclusion-like-pollution-why-we-should-be-using-sustainability-frameworks-to-address-accessibility/"
+		"link": "https://axe-con.com/event/treating-exclusion-like-pollution-why-we-should-be-using-sustainability-frameworks-to-address-accessibility/",
+		"description" : "Treating Exclusion Like Pollution – Why We Should Be Using Sustainability Frameworks to Address Accessibility"
 	}, {
 		"start": "11:00 am",
 		"end": "11:50 am",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Cognitive Barriers in VR and Beyond",
 		"presenter": "Jamie Knight + Lion",
-		"link": "https://axe-con.com/event/cognitive-barriers-in-vr-and-beyond/"
+		"link": "https://axe-con.com/event/cognitive-barriers-in-vr-and-beyond/",
+		"description" : "What are the main cognitive barriers in Virtual Reality and how can we shape our environments to meet the needs of our users? In this talk, Jamie + Lion from the BBC accessibility team shares the results of their research into accessible VR. This talk provides 6 key insights for ensuring cognitive accessibility within virtual environments and beyond."
 	}, {
 		"start": "12:30 pm",
 		"end": "1:20 pm",
-		"Type": "Breakout",
-		"title": "Don&apos;t Believe The Type!",
+		"type": "Breakout",
+		"title": "Don&apos;t Believe The type!",
 		"presenter": [
 			"Gareth Ford Williams",
 			"David Bailey",
 			"Bruno Maag"
 		],
-		"link": "https://axe-con.com/event/dont-believe-the-type/"
+		"link": "https://axe-con.com/event/dont-believe-the-type/",
+		"description" : "Are “accessible” fonts actually as accessible as they claim? If not, what are the things we need to know when choosing a font that responds to different reader needs? This session will explore what dyslexia is, what cognitively happens when we read, and what elements of a typeface make a difference to how accessible it is, and to whom. Bruno, David, and Gareth have decades of experience between them. Bruno as a Typeface Designer, David as a Typographer, and Gareth as a UX Design/Accessibility expert. Together they spent over 3 years researching and steering the creation of BBC Reith family, the BBC’s corporate accessible typeface."
 	}, {
 		"start": "12:30 pm",
 		"end": "1:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "How Adobe Transformed its Approach to Accessibility",
 		"presenter": "Andrew Kirkpatrick",
-		"link": "https://axe-con.com/event/how-adobe-transformed-its-approach-to-accessibility/"
+		"link": "https://axe-con.com/event/how-adobe-transformed-its-approach-to-accessibility/",
+		"description" : ""
 	}, {
 		"start": "12:30 pm",
 		"end": "1:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Axe-linter: Test in Your Editor",
 		"presenter": [
 			"Wilco Fiers",
 			"Michael Siek"
 		],
-		"link": "https://axe-con.com/event/axe-linter-test-in-your-editor/"
+		"link": "https://axe-con.com/event/axe-linter-test-in-your-editor/",
+		"description" : "Linters are amazing tools to find basic problems in source code. With axe-linter, you can test JSX, Vue, Markdown and more all at once, without long build steps, or even having to open a browser."
 	}, {
 		"start": "12:30 pm",
 		"end": "1:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Making the UK Public Sector More Accessible",
 		"presenter": "Richard Morton",
-		"link": "https://axe-con.com/event/making-the-uk-public-sector-more-accessible/"
+		"link": "https://axe-con.com/event/making-the-uk-public-sector-more-accessible/",
+		"description" : "How the UK government implemented new accessibility regulations across the public sector, and what is still to be done. Background: The European Union Web Accessibility Directive being transposed into UK law and the campaign to raise awareness of the requirements for organizations to meet them by the deadlines. Government Digital Service’s role as the monitoring body and the process of monitoring and enforcement. The next deadline for mobile accessibility and supporting the public sector to go beyond the regulations."
 	}, {
 		"start": "1:30 pm",
 		"end": "2:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Climbing the Accessibility Mountain: Adobe Audience Manager&apos;s Journey",
 		"presenter": [
 			"Elle Waters",
 			"Dylan Kario"
 		],
-		"link": "https://axe-con.com/event/climbing-the-accessibility-mountain-adobe-audience-managers-journey/"
+		"link": "https://axe-con.com/event/climbing-the-accessibility-mountain-adobe-audience-managers-journey/",
+		"description" : "We will present a case study detailing Adobe’s accessibility journey over the last year with the Audience Manager application. The team will share their efforts in developing an accessibility roadmap and balancing customer needs with feature enhancements, and they will share Adobe’s vision in creating a systematic process that addresses governance and remediation while building a culture of ownership around inclusion for the future. Through stories and practical examples, the Audience Manager product team will provide attendees with valuable insights and lessons learned in building accessibility into an enterprise software product."
 	}, {
 		"start": "1:30 pm",
 		"end": "2:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Authenticate It! How Inclusive User Testing Can Improve Digital Experiences and Value",
 		"presenter": [
 			"Tom Pokinko",
 			"Christine Hemphill"
 		],
-		"link": "https://axe-con.com/event/authenticate-it-how-inclusive-user-testing-can-improve-digital-experiences-and-value/"
+		"link": "https://axe-con.com/event/authenticate-it-how-inclusive-user-testing-can-improve-digital-experiences-and-value/",
+		"description" : "How to use authentic insight from non-expert users with lived experiences of disability in the design process to improve business outcomes. How you can engage your diverse consumers or target market to inform design and improve customer experiences. What research formats work at which stages of the design process? How can inclusive insight fit within an agile methodology? How to align three design inputs: WCAG audit-based results, non-disabled user insight, and inclusive user insight?"
 	}, {
 		"start": "1:30 pm",
 		"end": "2:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Improving PDF Accessibility with AI and Liquid Mode",
 		"presenter": "Robert Haverty",
-		"link": "https://axe-con.com/event/improving-pdf-accessibility-with-ai-and-liquid-mode/"
+		"link": "https://axe-con.com/event/improving-pdf-accessibility-with-ai-and-liquid-mode/",
+		"description" : "Adobe has been working on AI to improve the accessibility of PDF documents as well as an improved readability experience. The first release of these advancements is currently available on Acrobat Mobile for iOS and Android via our Liquid Mode feature. Come learn about our journey in using machine learning and AI to make more PDF documents accessible and easier to read."
 	}, {
 		"start": "1:30 pm",
 		"end": "2:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessible Data Visualizations 101",
 		"presenter": "Sarah Fossheim",
-		"link": "https://axe-con.com/event/accessible-data-visualizations-101/"
+		"link": "https://axe-con.com/event/accessible-data-visualizations-101/",
+		"description" : "How can we best use data visualizations to make complex data more accessible and easier to understand, and what are the main challenges in doing so? This talk explores what can go wrong if your data is inaccessible, common mistakes, and best practices for each step in the process, from design to implementation."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "After the Audit: Integrating Accessibility into the Testing Process",
 		"presenter": "Crystal Preston-Watson",
-		"link": "https://axe-con.com/event/after-the-audit-integrating-accessibility-into-the-testing-process/"
+		"link": "https://axe-con.com/event/after-the-audit-integrating-accessibility-into-the-testing-process/",
+		"description" : "Accessibility isn’t a one-time project. It’s an ongoing initiative whose continued success is built on ensuring that existing and future features (and products) remain accessible. This talk discusses how to integrate accessibility into your testing workflow by focusing on realistic changes, along with techniques and approaches for post-accessibility audits."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "IAAP Certifications: What&apos;s In It For Me?",
 		"presenter": "Samantha Evans",
-		"link": "https://axe-con.com/event/iaap-certifications-whats-in-it-for-me/"
+		"link": "https://axe-con.com/event/iaap-certifications-whats-in-it-for-me/",
+		"description" : "Find your foundation and support your specialized interest with Accessibility Core Competencies, Web Accessibility, Accessible Documents, and Accessible Built Environments. What are the career pathways and how are individuals using certification to expand their professional horizons? How do organizations use certification in their teams, and what have they found several years in? Join us to learn more about illustrating your commitment to the accessibility profession and highlighting your skills and knowledge."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "How Color Contrast Got Their Attention",
 		"presenter": [
 			"Patrick Sturdivant",
 			"Debbie Schulz"
 		],
-		"link": "https://axe-con.com/event/how-color-contrast-got-their-attention/"
+		"link": "https://axe-con.com/event/how-color-contrast-got-their-attention/",
+		"description" : "We wanted to find a way to get people engaged with A11y in our organization. Based on conversations with different people across the organization, we found that Color Contrast was one concept that people understood without much thought. After discovering that focusing on that single easily understood problem, we were able to significantly raise the awareness of the importance of accessibility and to get more people asking what else they could do."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Better Quality of Life Through Apps",
 		"presenter": "Johan Huijkman",
-		"link": "https://axe-con.com/event/better-quality-of-life-through-apps/"
+		"link": "https://axe-con.com/event/better-quality-of-life-through-apps/",
+		"description" : "Can designers and developers improve the lives of people who are partially or completely blind? I think we can. Together with Royal Dutch Visio, the expertise center in the field of visual impairment, I’m developing a range of apps that aim for more independence of visually impaired persons. This talk will take the audience on a journey along the different stages of developing these apps. It will show how we as sighted designers and developers have to unlearn things and gain an understanding of how a blind person experiences the world."
 	}, {
 		"start": "3:30 pm",
 		"end": "4:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Retrofitting for an Accessible Color Palette: Beyond the &ldquo;Nice-to-Have&rdquo; Improvement",
 		"presenter": "Marion Couesnon",
-		"link": "https://axe-con.com/event/retrofitting-for-an-accessible-color-palette-beyond-the-aunice-to-haveau-improvement/"
+		"link": "https://axe-con.com/event/retrofitting-for-an-accessible-color-palette-beyond-the-aunice-to-haveau-improvement/",
+		"description" : "Retrofitting doesn’t have a good reputation. Yet many products and websites published without accessibility in mind need to retrofit to be more accessible. In this talk, I would share my experience of retrofitting for an accessible palette. Beyond reaching compliance, I try to incorporate accessibility regulations as a core element of the designs so that they can no longer be ignored."
 	}, {
 		"start": "3:30 pm",
 		"end": "4:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Implementing a Document Accessibility Workflow Within Your Organization",
 		"presenter": "Dax Castro",
-		"link": "https://axe-con.com/event/implementing-a-document-accessibility-workflow-within-your-organization/"
+		"link": "https://axe-con.com/event/implementing-a-document-accessibility-workflow-within-your-organization/",
+		"description" : "In this session, you will learn strategies for rolling out and managing an accessibility program within your organization. Accessibility is here to stay and rolling out a compliance program within your organization can be a daunting task. Attend this session and get insights on getting buy-in, handling push-back, establishing workflow, and impact to scope and schedule."
 	}, {
 		"start": "3:30 pm",
 		"end": "4:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accidental Advocacy: When You Don&apos;t Realize You&apos;re Steering the Ship",
 		"presenter": "Andrew Hayward",
-		"link": "https://axe-con.com/event/accidental-advocacy-when-you-dont-realize-youre-steering-the-ship/"
+		"link": "https://axe-con.com/event/accidental-advocacy-when-you-dont-realize-youre-steering-the-ship/",
+		"description" : "It can often feel like affecting organizational change is a losing battle. But moving an organization starts with small actions, and even if you don’t realize you are impacting decisions, persistence and patience can really pay off. In this session, we will be looking at the outsize impact you can have on accessibility in your organization as an individual."
 	}, {
 		"start": "3:30 pm",
 		"end": "4:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Integrating Accessibility Into The Software Development Lifecycle",
 		"presenter": "Segun Ola",
-		"link": "https://axe-con.com/event/integrating-accessibility-into-the-software-development-lifecycle/"
+		"link": "https://axe-con.com/event/integrating-accessibility-into-the-software-development-lifecycle/",
+		"description" : "Championing a culture of accessibility can be difficult. It is especially daunting when you are the only one in the organization who seems to care. In this talk, I will cover different approaches that you can take to improve the accessibility culture of your team as well as the accessibility of your products."
 	}, {
 		"start": "4:30 pm",
 		"end": "5:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Team Approaches to Accessible and Inclusive Design: a Case study on the COVID Alert App and Healthcare Portal",
 		"presenter": "Julianna Rowsell",
-		"link": "https://axe-con.com/event/team-approaches-to-accessible-and-inclusive-design-a-case-study-on-the-covid-alert-app-and-healthcare-portal/"
+		"link": "https://axe-con.com/event/team-approaches-to-accessible-and-inclusive-design-a-case-study-on-the-covid-alert-app-and-healthcare-portal/",
+		"description" : "Everybody has the potential to craft inclusive experiences when they talk to the people who operate & use services. This talk is a story of how a grassroots approach to accessibility and inclusion infiltrated the roles on Canadian Digital Service product teams allowed us to scale accessibility within rapid development of the Covid Alert exposure notification tracking app in just 45 days from start to launch."
 	}, {
 		"start": "4:30 pm",
 		"end": "5:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "ARIA Spec for the Uninitiated",
 		"presenter": "Gerard Cohen",
-		"link": "https://axe-con.com/event/aria-spec-for-the-uninitiated/"
+		"link": "https://axe-con.com/event/aria-spec-for-the-uninitiated/",
+		"description" : "Specs are usually not very fun, but I have learned that reading the ARIA specs is important to fully understand all the various options that are available. In this presentation, I will walk you through the ARIA spec and show you how to make the most out of it to create custom components with ARIA."
 	}, {
 		"start": "4:30 pm",
 		"end": "5:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessibility Coaching: A Peek into the Playbook",
 		"presenter": "Kelly Gaertner",
-		"link": "https://axe-con.com/event/accessibility-coaching-a-peek-into-the-playbook/"
+		"link": "https://axe-con.com/event/accessibility-coaching-a-peek-into-the-playbook/",
+		"description" : "In the fast-paced world of building digital user experiences, how do you continually keep Accessibility top of mind for pressured Product Owners, time-strapped Testers, and all of the team members in between? This presentation will give you a look at how Accessibility Coaches could be the answer."
 	}, {
 		"start": "4:30 pm",
 		"end": "5:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Boost Your Accessibility Compliance and SEO At The Same Time",
 		"presenter": [
 			"Ritu Jayakar",
 			"Levi Bloom"
 		],
-		"link": "https://axe-con.com/event/boost-your-accessibility-compliance-and-seo-at-the-same-time/"
+		"link": "https://axe-con.com/event/boost-your-accessibility-compliance-and-seo-at-the-same-time/",
+		"description" : "Learning and implementing accessibility techniques require extra time and budget. If you are struggling to get approval from your supervisors highlighting the SEO benefits of accessibility techniques can help you get the much-needed approval from the decision-makers to make your content accessible. This presentation discusses how adopting accessibility principles for content, title, links, images, list, and video can help your content to be accessible for assistive technologies and search engines alike. Examples in this presentation are drawn from the redesign project of the Penn State world campus site for online education."
 	}, {
 		"start": "5:30 pm",
 		"end": "6:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Inclusion By Design",
 		"presenter": "Alicia Jarvis",
-		"link": "https://axe-con.com/event/inclusion-by-design/"
+		"link": "https://axe-con.com/event/inclusion-by-design/",
+		"description" : "This session explains the processes and artifacts required to integrate Accessibility into the Practice of Design. I will explain the difference between accessible design and inclusive design, and give practical guidance for integrating accessibility into Design Research, Visual Design, Interaction Design and Content Design."
 	}, {
 		"start": "5:30 pm",
 		"end": "6:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Digital Accessibility Across Higher Education: Historical Trends and Pathways to Inclusion",
 		"presenter": "John Scott",
-		"link": "https://axe-con.com/event/digital-accessibility-across-higher-education-historical-trends-and-pathways-to-inclusion/"
+		"link": "https://axe-con.com/event/digital-accessibility-across-higher-education-historical-trends-and-pathways-to-inclusion/",
+		"description" : "Analyzing accessibility data from 550 U.S. higher education institutions and over 750 million digital content items, this session explores how critical accessibility issues in courses have evolved over the last four years, including the impact of COVID-19 on historical trends. The session also explores instructor engagement with accessibility feedback in courses, student usage of alternative formats of learning content, and institutional accessibility strategies and policy in illustrating the ways institutions are progressing on their journeys to a more inclusive educational experience for all students."
 	}, {
 		"start": "5:30 pm",
 		"end": "6:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Building Accessible Drop-downs with Downshift React Hooks",
 		"presenter": "Silviu Alexandru Avram",
-		"link": "https://axe-con.com/event/building-accessible-drop-downs-with-downshift-react-hooks/"
+		"link": "https://axe-con.com/event/building-accessible-drop-downs-with-downshift-react-hooks/",
+		"description" : "We will build a custom Select component using Downshift and basic React components. Next, we will create a custom Combobox component and finally enhance both widgets with Multiple Selection. All of this and more advanced customization options live in a code editor."
 	}, {
 		"start": "5:30 pm",
 		"end": "6:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Case Studies for Building Empathy and Awareness for Accessibility at Ally Bank",
 		"presenter": "Sabrena Foxx",
-		"link": "https://axe-con.com/event/case-studies-for-building-empathy-and-awareness-for-accessibility-at-ally-bank/"
+		"link": "https://axe-con.com/event/case-studies-for-building-empathy-and-awareness-for-accessibility-at-ally-bank/",
+		"description" : "In this talk, Sabrena Foxx, Product Manager at Ally Bank, will review how the accessibility program at Ally Bank successfully implemented empathy and awareness events to drive buy-in for accessibility. This talk will be filled with examples of how to build a wide-reaching accessibility initiative."
 	}, {
 		"start": "5:30 pm",
 		"end": "6:30 pm",
-		"Type": "Social",
+		"type": "Social",
 		"title": "Virtual Cocktail Class",
 		"presenter": "Jason Suss",
-		"link": "https://axe-con.com/event/virtual-cocktail-class/"
+		"link": "https://axe-con.com/event/virtual-cocktail-class/",
+		"description" : "Join your fellow axe-con attendees at our virtual cocktail class to learn about the history of mixology and how to make a bartender-approved cocktail at home! This event will take place on the second day of the conference and will include alcoholic and non-alcoholic recipes as well as mixology lessons for attendees."
 	}, {
 		"start": "6:30 pm",
 		"end": "7:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Reusable Widgets That Work!",
 		"presenter": "Maria Lamardo",
-		"link": "https://axe-con.com/event/reusable-widgets-that-work/"
+		"link": "https://axe-con.com/event/reusable-widgets-that-work/",
+		"description" : "Vue.js is an amazing framework that allows you to quickly build reusable components. We can leverage this to build accessible reusable widgets with the help of ARIA (Accessible Rich Internet Application). Using ARIA roles and attributes, we can improve the accessibility of certain elements by providing additional semantics. In this talk, we will go over how to follow the specifications and build accessible and reusable tabs, accordions, toggle buttons, and modal dialogs that work for everyone!"
 	}, {
 		"start": "6:30 pm",
 		"end": "7:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Organizational Success with Accessibility",
 		"presenter": "Aditya Bajaj",
-		"link": "https://axe-con.com/event/organizational-success-with-accessibility/"
+		"link": "https://axe-con.com/event/organizational-success-with-accessibility/",
+		"description" : "Accessibility is best implemented when it is desired and not enforced. It should be considered in everything we do like a spell checker so that it is not an afterthought but is baked into every single project stage from start to finish. Leveraging existing tools and taking simple steps can instantly increase your organization’s accessibility and help build towards a more sustainable, accessible culture within the organization. Join this session to learn how Aditya and his team of 40+ advocates are building an accessibility culture within a division of more than a thousand employees that anyone can easily adopt to drive a culture shift in their organization."
 	}, {
 		"start": "6:30 pm",
 		"end": "7:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Forming an Enterprise Accessibility Training Program",
 		"presenter": "Rob O&apos;Connell",
-		"link": "https://axe-con.com/event/forming-an-enterprise-accessibility-training-program/"
+		"link": "https://axe-con.com/event/forming-an-enterprise-accessibility-training-program/",
+		"description" : "Large corporations with diverse roles may find it impractical to run role-based accessibility training from one shop. A workable approach is to form an accessibility training strategy whose role-based learning objectives are managed centrally but whose training staff and resources are managed separately for each area of specialization. Role-specific trainers manage learning objectives collaboratively using one shared repository, but each trainer fulfills learning objectives independently for each specialized role. Since measurable outcomes correspond to learning objectives, test outcomes can be reported back to one enterprise-wide system to track accessibility competencies for each role over time."
 	}, {
 		"start": "6:30 pm",
 		"end": "7:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Micro Interactions, More like Micro Aggressions",
 		"presenter": "Shell Little",
-		"link": "https://axe-con.com/event/micro-interactions-more-like-micro-aggressions/"
+		"link": "https://axe-con.com/event/micro-interactions-more-like-micro-aggressions/",
+		"description" : "For a Neurotypical person, an attention-grabbing, movement driven feature can be a friendly nudge alerting to a new enhancement or a welcomed hint that a chat is available if they have questions. Unfortunately for someone with attention-related disabilities, or Neurodivergent, that distraction can and often is the end of the road for a task. With the popularity of micro-interactions on the rise as mobile technology continues to grow, the barriers they create for people with attention-related and other cognitive disabilities rise along with it. In this talk Shell Little will discuss the difficult place we are at with these standard-less patterns that help some and block others using a variety of examples including in-the-wild patterns with a focus on mobile-based micro-interactions, all to answer the question ‘what is micro enough?’."
 	}, {
 		"start": "7:30 pm",
 		"end": "8:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Making Your JAMstack Site Accessible.",
 		"presenter": "Kyle Boss",
-		"link": "https://axe-con.com/event/making-your-jamstack-site-accessible/"
+		"link": "https://axe-con.com/event/making-your-jamstack-site-accessible/",
+		"description" : "Let’s talk about the JAMstack. It’s cutting-edge. It’s performant. But what about accessibility? Answer: It’s as accessible as you make it. In this talk, we will explore the JAMstack ecosystem and introduce the tools that exist to ensure that your sites are accessible as can be."
 	}, {
 		"start": "7:30 pm",
 		"end": "8:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Designing Accessible Games",
 		"presenter": "Steven Lambert",
-		"link": "https://axe-con.com/event/designing-accessible-games/"
+		"link": "https://axe-con.com/event/designing-accessible-games/",
+		"description" : "Designing accessible games covers a lot of the same principles as designing for the web. But as a highly interactive medium, there’s a lot to consider in how to make a game accessible to your users. In this session, we’ll go over techniques for designing accessible games, including color-contrast, subtitles, and remappable controls. We’ll also be talking about game difficulty and how to provide different levels of difficulty based on your users’ needs (while still being true to your intent). You’ll walk away with a solid understanding of the principles of accessibility in games and how to design your games with accessibility in mind."
 	}, {
 		"start": "8:30 pm",
 		"end": "9:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessibility in a Product with Thousands of Pages (TurboTax)",
 		"presenter": [
 			"Kendall Gassner",
 			"Tyler Krupicka"
 		],
-		"link": "https://axe-con.com/event/accessibility-in-a-product-with-thousands-of-pages-turbotax/"
+		"link": "https://axe-con.com/event/accessibility-in-a-product-with-thousands-of-pages-turbotax/",
+		"description" : "Learn how engineers at Intuit tackled accessibility issues across thousands of screens in their tax-filing product, TurboTax. Attendees will learn how the team used axe to pinpoint high-impact issues, ultimately reaching zero violations in the product’s core interview experience."
 	}, {
 		"start": "8:30 pm",
 		"end": "9:20 pm",
-		"Type": "Breakout",
+		"type": "Breakout",
 		"title": "Accessibility Libraries: How Design Can Start the A11y Conversation Early",
 		"presenter": "Stephanie Hagadorn",
-		"link": "https://axe-con.com/event/accessibility-libraries-how-design-can-start-the-a11y-conversation-early/"
+		"link": "https://axe-con.com/event/accessibility-libraries-how-design-can-start-the-a11y-conversation-early/",
+		"description" : "Often accessibility is overlooked till the last minute, requiring more effort and time to find, report, and remediate problems. By creating a shared library of accessibility specs, designers can avoid creating inaccessible products from the start and build awareness of accessibility within UX and their broader organization. This talk will cover why you should use an accessibility library, what teams at Indeed are using, and how it’s impacted conversations about accessibility across the company."
 	}]
 }
